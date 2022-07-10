@@ -6,7 +6,7 @@ This tool automates web application login and retrieves authentication cookies ,
  
 use **docker build** command to build the docker image from the Dockerfile.
 
-1. ``git clone.``
+1. ``git clone https://github.com/akashc99/OWASP-ZAP-Docker-Auth-Scan-Using-Selenium-Python.git``
 2. ``cd OWASP-ZAP-Docker-Auth-Scan-Using-Selenium-Python``
 3. ``sudo docker build -t zap2docker .``
 
